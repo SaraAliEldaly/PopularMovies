@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_share">Share</string>
+
+    <string name="trailers_textview">Trailers:</string>
+    <string name="reviews_textview">Reviews:</string>
+
+    <string name="movie_image_contentdescription">Movie Poster</string>
+    <string name="trailer_icon_contentdescription">Movie Poster</string>
+
+    <array name="SortingSequence">
+        <item>Most Popular</item>
+        <item>Highest Rated</item>
+        <item>Favorites</item>
+    </array>
+</resources>
